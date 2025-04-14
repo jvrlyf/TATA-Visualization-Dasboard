@@ -32,7 +32,8 @@ Develop a script and record a video presenting your findings to the CEO and CMO 
 
 
 
-
+Dashboard:
+![TATA Visualization Dasboard Snapshot](demo.png)
 
 ## Contact Me
 
